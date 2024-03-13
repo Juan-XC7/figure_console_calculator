@@ -1,0 +1,7 @@
+C:\Users\juanp\source\repos\Calculadora de figuras\bin\Debug\Calculadora de figuras.exe.config
+C:\Users\juanp\source\repos\Calculadora de figuras\bin\Debug\Calculadora de figuras.exe
+C:\Users\juanp\source\repos\Calculadora de figuras\bin\Debug\Calculadora de figuras.pdb
+C:\Users\juanp\source\repos\Calculadora de figuras\obj\Debug\Calculadora de figuras.csproj.AssemblyReference.cache
+C:\Users\juanp\source\repos\Calculadora de figuras\obj\Debug\Calculadora de figuras.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\Calculadora de figuras\obj\Debug\Calculadora de figuras.exe
+C:\Users\juanp\source\repos\Calculadora de figuras\obj\Debug\Calculadora de figuras.pdb
